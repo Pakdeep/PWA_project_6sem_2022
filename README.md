@@ -7,5 +7,5 @@ c. Manifest
 d. Offline features of a progressive webpage
 e. Lighthouse
 
-To run the project please download it and extract first. Secondly, open the file using comand prompt or vs code. Then, run the server using node server.js in the terminal.
+To run the project please download it and extract first. Secondly, open the file using command prompt or vs code. Then, run the server using node server.js in the terminal.
 Thank you
